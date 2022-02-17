@@ -1,0 +1,40 @@
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{6D1B12FF-8928-4C9A-AB8D-365E9F88D1B2}|Default">
+  <MonoDevelop.Ide.ItemProperties.ConsoleMemberRegistration PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="WebMemberRegistration/appsettings.json">
+    <Files>
+      <File FileName="WebMemberRegistration/Models/Members.cs" Line="28" Column="1" />
+      <File FileName="WebMemberRegistration/Web.Config" Line="27" Column="14" />
+      <File FileName="WebMemberRegistration/Models/Data/ApplicationDbContext.cs" Line="20" Column="10" />
+      <File FileName="WebMemberRegistration/Controllers/MembersController.cs" Line="19" Column="10" />
+      <File FileName="WebMemberRegistration/appsettings.json" Line="1" Column="1" />
+      <File FileName="WebMemberRegistration/Data/MembersContext.cs" Line="18" Column="6" />
+      <File FileName="WebMemberRegistration/Program.cs" Line="1" Column="1" />
+      <File FileName="WebMemberRegistration/Startup.cs" Line="30" Column="88" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Membros" expanded="True">
+            <Node name="WebMemberRegistration" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+                <Node name="Members" expanded="True" />
+              </Node>
+              <Node name="appsettings.json" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.WebMemberRegistration PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
